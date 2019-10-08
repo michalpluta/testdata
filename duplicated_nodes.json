@@ -1,5 +1,14 @@
-{"user": 
-    {"lastname":"Brown", 
-    "firstName": "Mia", "age":30},
+{
+    "user": 
+    {
+        "lastname":"Brown", 
+        "firstName": "Mia", 
+        "age":30,
+        "user" : {
+            "lastname":"White", 
+            "firstName": "Michael",
+            "age": 26
+        }
+    },
     "phonenumber": "(251) 546-9442"
-    }
+}
