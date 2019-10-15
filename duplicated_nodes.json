@@ -1,1 +1,1 @@
-{"isbn":"123-456-222","author":{"lastname":"Doe","firstname":"Jane"},"editor":{"lastname":"Smith","firstname":"Jane"},"title":"The Ultimate Database Study Guide","category":["Non-Fiction","Technology"]}
+{"isbn":"123-456-222","author":{"lastname":"Blah","firstname":"Blahh","address":{"street":"1 Datalogue Way","city":"The Internets"}},"editor":{"lastname":"Some","firstname":"One"},"title":"The Ultimate Database Study Guide Part 2","category":["Non-Fiction","Technology"]}
